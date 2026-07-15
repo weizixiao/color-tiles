@@ -1,0 +1,16 @@
+{
+  "name": "minimal-color-tiles",
+  "version": "1.0.0",
+  "description": "A tiny asset-free Color Tiles puzzle implementation focused on the game algorithm.",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/engine.test.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "puzzle",
+    "color-tiles",
+    "game",
+    "algorithm"
+  ]
+}

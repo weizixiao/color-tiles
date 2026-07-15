@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Minimal Color Tiles</title>
+    <link rel="stylesheet" href="./src/styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="topbar" aria-label="Game status">
+        <div>
+          <h1>Color Tiles</h1>
+          <p id="level-label">Level 1</p>
+        </div>
+        <div class="stats">
+          <span>Moves <strong id="moves-left">3</strong></span>
+          <span id="status-label">Ready</span>
+        </div>
+      </section>
+
+      <canvas id="board" width="720" height="720" aria-label="Color Tiles board"></canvas>
+
+      <section class="controls" aria-label="Direction controls">
+        <button data-dir="up" aria-label="Move up">↑</button>
+        <button data-dir="left" aria-label="Move left">←</button>
+        <button data-dir="down" aria-label="Move down">↓</button>
+        <button data-dir="right" aria-label="Move right">→</button>
+      </section>
+
+      <section class="actions" aria-label="Game actions">
+        <button id="undo">Undo</button>
+        <button id="reset">Reset</button>
+        <button id="new-run">New Run</button>
+      </section>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
