@@ -501,3 +501,11 @@ Common changes:
 - Change `findGroups()` to clear 3-connected or 5-connected groups.
 - Change `slideGrid()` from one-cell movement to slide-to-edge movement.
 - Change `removeGroups()` rewards from "one move per group" to "one move per four tiles".
+
+## Related
+
+- [Play Color Tiles online](https://colortilesgame.com)
+
+## License
+
+MIT License
