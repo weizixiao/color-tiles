@@ -505,6 +505,7 @@ Common changes:
 ## Related
 
 - [Play Color Tiles online](https://colortilesgame.com)
+- [From the 40s to 97: How We Cut the Initial Load of a Next.js WebGL Game by Nearly 80%](https://medium.com/@winterscott999/from-the-40s-to-97-how-we-cut-the-initial-load-of-a-next-js-webgl-game-by-nearly-80-d04e803a27ac)
 
 ## License
 
