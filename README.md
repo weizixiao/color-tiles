@@ -505,8 +505,8 @@ Common changes:
 ## Related
 
 - [Play Color Tiles online](https://colortilesgame.com)
-- [Taking a Next.js WebGL Game from the 40s to 97: Practical Production Optimization](https://dev.to/scott_winter_77ced0700c92/from-the-40s-to-97-optimizing-a-nextjs-webgl-game-b01)
-- [From the 40s to 97: How We Cut the Initial Load of a Next.js WebGL Game by Nearly 80%](https://medium.com/@winterscott999/from-the-40s-to-97-how-we-cut-the-initial-load-of-a-next-js-webgl-game-by-nearly-80-d04e803a27ac)
+- [Practical guide to optimizing a Next.js WebGL game](https://dev.to/scott_winter_77ced0700c92/from-the-40s-to-97-optimizing-a-nextjs-webgl-game-b01)
+- [Detailed case study: Cutting a Next.js WebGL game's initial load by nearly 80%](https://medium.com/@winterscott999/from-the-40s-to-97-how-we-cut-the-initial-load-of-a-next-js-webgl-game-by-nearly-80-d04e803a27ac)
 
 ## License
 
